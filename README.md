@@ -80,10 +80,33 @@ The dataset includes:
 
 ## 📸 Project Screenshots
 
-- Login Page
-- Health Assessment Dashboard
-- Risk Prediction Dashboard
-- Patient Records Dashboard
+### 1. Login Page
+
+![Login Page](screenshots/1-login-page.png)
+
+---
+
+### 2. Health Assessment (Part 1)
+
+![Health Assessment](screenshots/2-health-assessment.png)
+
+---
+
+### 3. Health Assessment (Part 2)
+
+![Health Assessment Continued](screenshots/3-health-assessment-continued.png)
+
+---
+
+### 4. Prediction Result
+
+![Prediction Result](screenshots/4-prediction-result.png)
+
+---
+
+### 5. Patient Records Dashboard
+
+![Patient Records](screenshots/5-patient-records.png)
 
 ---
 
