@@ -1,4 +1,4 @@
-# GastroGuard – Pseudocode
+# GastroGuard – ALGORITHM
 
 ## Algorithm
 
